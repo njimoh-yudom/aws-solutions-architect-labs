@@ -73,7 +73,11 @@ aws-solutions-architect-labs/
 | 02-aws-fundamentals | Done |
 | 03-iam / 00-secure-account | Done - Secure Root + Admin + MFA |
 | 03-iam / 01-users-groups | Done - Exercise 1 Done |
-| 03-iam / 02-custom-policy | Next |
+| 03-iam / 02-custom-policy | Done - Exercise 2 Done |
+| 03-iam / 03-mfa-password-policy | Done - Exercise 3 Done |
+| 03-iam / 04-roles | Done - Exercise 4 Done |
+| 03-iam / 05-iam-audit | Done - Exercise 5 Done |
+| 03-iam / 06-iam-cli | Done - Exercise 6 Done - Console + CLI |
 | 04-s3 | Planned |
 | 05-ec2 | Planned |
 | 06-ebs-efs | Planned |
